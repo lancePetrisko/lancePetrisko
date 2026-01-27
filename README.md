@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!!
+
+I'm a Informations System Student at University of Utah. I'm interested in Hardware and Software, I've been coding off and on for about 8 years now. In my free time I play with hardware, video games, 3d print and edit videos.
 
 <!--
 **lancePetrisko/lancePetrisko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
