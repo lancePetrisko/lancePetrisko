@@ -2,6 +2,6 @@
 
 [My Personal Website](https://lancepetrisko.github.io/personal-website/index.html)
 
-I'm a Sophmore Informations System Student at University of Utah. I'm interested in Hardware and Software, I've been coding off and on for about 8 years now. In my free time I play with hardware, video games, 3d print and edit videos.
+I'm Lance Petrisko, a Sophomore Information Systems student at the University of Utah interested in both hardware and software. I've been coding on and off for about 8 years and enjoy building technical projects that combine creativity with practical problem solving.
 
-I run and manage my Cisco UCS C240 M3 TrueNAS Scale server. Its my most prized possesion in terms of hardware.
+In my free time, I work on homelab hardware, play video games, 3D print, and edit videos. My favorite piece of hardware is my Cisco UCS C240 M3 TrueNAS SCALE server, which I run and manage as part of my home lab.
